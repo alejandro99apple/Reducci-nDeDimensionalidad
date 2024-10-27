@@ -1,0 +1,1 @@
+# Reducci-nDeDimensionalidad
